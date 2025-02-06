@@ -1,5 +1,5 @@
 body {
-  background: #000;
+  background: #343a40;
   font-family: "Roboto", serif;
   font-optical-sizing: auto;
   font-weight: 100;
@@ -27,19 +27,27 @@ h2 {
   font-weight: 700;
   font-style: normal;
   font-variation-settings: "wdth" 100;
-  margin-top: 323px;
+  margin-top: 80px;
   color: #fff;
   line-height: auto;
   letter-spacing: 0.4em;
 }
 
-.navbar-dark {
-  background-color: #000;
-  color: #fff;
+.rounded {
+  border-radius: 10px;
 }
 
-.rounded {
-  border-radius: 50px;
+/* .highlight-white {
+  background-color: #000;
+  opacity: 60%;
+  padding: 0 6px;
+} */
+
+.size {
+  border-radius: 10px;
+  max-width: 40%;
+  max-height: 40%;
+  opacity: 50%;
 }
 
 @media (max-width: 500px) {
