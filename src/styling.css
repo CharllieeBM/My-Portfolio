@@ -2,7 +2,7 @@ body {
   background: #343a40;
   font-family: "Roboto", serif;
   font-optical-sizing: auto;
-  font-weight: 100;
+  font-weight: 200;
   font-style: normal;
   font-variation-settings: "wdth" 100;
   color: #fff;
@@ -38,6 +38,15 @@ h2 {
   max-width: 40%;
   max-height: 40%;
   opacity: 50%;
+}
+
+.footer {
+  color: #fff;
+  font-size: 14px;
+}
+
+a:hover {
+  color: #ff99cc;
 }
 
 @media (max-width: 400px) {
