@@ -33,6 +33,13 @@ h2 {
   letter-spacing: 0.4em;
 }
 
+p {
+  width: 90%;
+  word-wrap: break-word;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
 .size {
   border-radius: 10px;
   max-width: 40%;
