@@ -49,17 +49,17 @@ a:hover {
   color: #ff99cc;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 768px) {
   h1 {
     font-size: 30px;
   }
 
   h2 {
-    font-size: 22px;
+    font-size: 19px;
     text-align: center;
   }
   p {
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
   }
 }
