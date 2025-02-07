@@ -47,6 +47,11 @@ h2 {
 
 a:hover {
   color: #ff99cc;
+  text-decoration: none;
+}
+
+a {
+  color: #fff;
 }
 
 @media (max-width: 768px) {
